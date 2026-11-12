@@ -30,4 +30,6 @@
 - 옵저버 패턴 : 한객체의 상태가 바뀌면 그 객체를 구독하고 있는 여러 객체에게 자동으로 알려주는 패턴. subject : 관찰대상, Observer : 통지대상
 
 
+cf) 스프링 componetscan 대상 : @Component, @Controller, @Service, @Repository, @Configuration => 이 객체를 Bean이라고 함
+
 
