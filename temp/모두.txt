@@ -8,7 +8,7 @@
 
 
 >> CSRF(Cross-Site Request Forgery: 사이트간 요청위조)
->> CAPTCHA : 접속한 사용자가 사람인지 로봇인지 판결하는 보안기술
+>> CAPTCHA : 접속한 사용자가 사람인지 프로그램(봇)인지 판결하는 보안기술
 
 
 [소공]
