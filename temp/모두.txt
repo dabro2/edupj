@@ -6,6 +6,11 @@
 정규식 [\\w] : 알파벳(대소문자), 숫자, 언더바만 허용
        {2, 4} 반복회수 2회~4회까지, [ab] : a or b
 
+
+>> CSRF(Cross-Site Request Forgery: 사이트간 요청위조)
+
+
+
 [소공]
 o 디자인 패턴
  - ConcreteXXXX : concrete 개념은 XXXX 인터페이스를 구현하는 구현체라고 이해하면 됨.  Factory는 객체 생성
